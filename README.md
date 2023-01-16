@@ -2,10 +2,10 @@
 
 ## Step 1
 
-git clone repo name
+Clone repository as flashswap
 
 ```shell
-git clone flashswap
+git clone https://github.com/CryptoWizardsNet/flash-loan-arbitrage-triangular.git flashswap
 ```
 
 ## Step 2
